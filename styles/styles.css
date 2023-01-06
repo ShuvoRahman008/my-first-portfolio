@@ -99,6 +99,10 @@ main {
     font-weight: 700;
     font-size: 35px;
 }
+.resume .section-title{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
 
 .section-discription {
     color: #757575;
