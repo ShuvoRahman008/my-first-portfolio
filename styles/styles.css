@@ -6,7 +6,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .header {
@@ -27,8 +27,9 @@ nav ul {
 }
 
 .nav-title {
-    Weight: 800;
-    Size: 45px;
+    font-weight: 800;
+    font-size: 45px;
+    margin-top: 60px;
 }
 
 .text-primary {
